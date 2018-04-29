@@ -11,7 +11,7 @@ public class Calculator {
 
     public static void main(String[] args){
         Calculator calc = new Calculator();
-        calc.add(x, y); // expect 12
+        calc.add(x, y); // arguments passed to method expect 12
 
         calc.subtract(x,y); // expect 8
 
@@ -21,7 +21,7 @@ public class Calculator {
 
     }
 
-    public int add(int x, int y){
+    public int add(int x, int y){ // parameter
         int results = x + y;
 
         System.out.println(results);
