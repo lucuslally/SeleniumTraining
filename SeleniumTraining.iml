@@ -8,8 +8,10 @@
       <sourceFolder url="file://$MODULE_DIR$/src/Loops, Arrays, IF Statements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Methods" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/OOConcepts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Selenium" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="selenium-java-3.11" level="project" />
   </component>
 </module>

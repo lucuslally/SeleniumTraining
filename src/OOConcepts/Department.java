@@ -6,6 +6,20 @@ public class Department {
     public int dept_id;
     public int no_of_emp;
 
+    /*
+    Access Modifiers
+    default - common for Selenium - Only accessed inside the current package
+    public - common for Selenium - Anywhere inside any package/class
+    private
+    protected
+
+    Modifier    class       package     subclass    world
+    public      v           v           v           v
+    protected   v           v           v           x
+    no modifier v           v           x           x
+    private     v           x           x           x
+     */
+
     // Static variable
     public static String comp_name;
 
