@@ -9,7 +9,7 @@ public class Selenium {
 
     public static void main(String[] args) {
         // Chrome
-        //System.setProperty("webdriver.chrome.driver", "/Users/llally/Documents/Java/chromedriver");
+        //System.setProperty("webdriver.chrome.driver", "/Users/llally/Documents/Java/WebDrivers/chromedriver");
         //WebDriver driver = new ChromeDriver();
         //driver.get("http://wwww.reddit.com");
 
