@@ -1,4 +1,6 @@
+
 public class Variables {
+
     static int i = 10; // instance variables
 
     public static void main(String[] args) {
@@ -20,8 +22,8 @@ public class Variables {
         making instance variable static causes it to become a class variable. Every time i is called, it is passed around and manipulated
 
         referenceVariable.instanceVariable/method
+*/
 
-         */
     }
 
     public void go() {
@@ -30,4 +32,9 @@ public class Variables {
         int i = 123; // local variable
 
     }
+
 }
+
+
+
+
